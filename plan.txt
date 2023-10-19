@@ -1,0 +1,5 @@
+1. create homepage
+2. add contacts page
+3. add about us page
+4. add services we offer page
+5. add testamonial section to homepage
