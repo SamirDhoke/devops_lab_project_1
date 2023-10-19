@@ -3,3 +3,4 @@
 3. add about us page
 4. add services we offer page
 5. add testamonial section to homepage
+6. add nice UI to it.
