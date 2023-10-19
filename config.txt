@@ -1,0 +1,4 @@
+name='Project 1'
+version='0.0.1'
+author='Samir Dhoke'
+email='userphrase.samir@gmail.com'
